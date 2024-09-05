@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(234, 182, 182);
+}
+
+header {
+  background-color: #e35c5c;
+  color: #fff;
+  text-align: center;
+}
+
+div {
+  margin: 20px;
+  padding: 20px;
+  background-color: #c16464;
+}
+
+div h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
